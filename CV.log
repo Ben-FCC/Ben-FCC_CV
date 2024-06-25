@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  25 JUN 2024 11:02
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  25 JUN 2024 12:20
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -573,48 +573,49 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 56.
+(Font)              <12> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 57.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
+Underfull \hbox (badness 10000) in paragraph at lines 73--77
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 2635) in paragraph at lines 79--81
+\TU/EBGaramond(0)/m/n/12 ration of sim-i-lar-ity in spon-ta-neous fa-cial be-hav
+-iors dur-ing pan-demic lock-down. \TU/EBGaramond(0)/m/it/12 PsyArXiv\TU/EBGara
+mond(0)/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 82--86
+Underfull \hbox (badness 10000) in paragraph at lines 84--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--113
+Underfull \hbox (badness 10000) in paragraph at lines 92--115
 
  []
 
 [2]
-Overfull \hbox (3.11998pt too wide) in paragraph at lines 117--119
+Underfull \hbox (badness 1248) in paragraph at lines 119--121
 \TU/EBGaramond(0)/b/n/12 Pro-gram-ming: \TU/EBGaramond(0)/m/n/12 Machine-learnin
-g & Deep-learning (Scikit-learn, Py-torch, Ten-sor-Flow), Neu-roimag-
- []
-
-
-Overfull \hbox (7.41185pt too wide) in paragraph at lines 117--119
-\TU/EBGaramond(0)/m/n/12 ing (Nl-tools, Nilearn, BrainIAK, fM-RIPrep), Non-verba
-l be-hav-ior anal-y-sis (Py-Feat, Open-Face, Open-
+g & Deep-learning (Scikit-learn, Py-torch, Ten-sor-Flow), Neu-
  []
 
 [3] [4] (./CV.aux)
@@ -627,26 +628,24 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14359 strings out of 476447
+ 14355 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 526 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 68 glue_spec,
- 6 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:1,2:472,3:311,4:85,5:1008,6:83,7:10354,8:42,9:537,10:5,11:1019
-
- 36239 multiletter control sequences out of 65536+600000
- 50 fonts using 11667687 bytes
+ 516 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 68 glue_spec,
+ 5 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 2:462,3:260,4:83,5:1022,6:84,7:10312,8:2,9:525,10:32,11:1019
+ 36235 multiletter control sequences out of 65536+600000
+ 49 fonts using 11541599 bytes
  79i,8n,89p,499b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmmono12-regular.ot
-f></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramon
-d-Italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramon
-d/EBGaramond-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/publ
-ic/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentyp
-e/public/ebgaramond/EBGaramond-Bold.otf>
-Output written on CV.pdf (4 pages, 43869 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-
+Italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/
+EBGaramond-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public
+/fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/
+public/ebgaramond/EBGaramond-Bold.otf>
+Output written on CV.pdf (4 pages, 40103 bytes).
 
-PDF statistics: 73 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
