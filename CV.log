@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  26 JUN 2024 12:50
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  26 JUN 2024 19:21
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -418,100 +418,125 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedLeftParindent=\skip67
 \RaggedRightParindent=\skip68
 \JustifyingParindent=\skip69
-) (./CV.aux)
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/mathalpha/mathalfa.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/mathalpha/mathalpha.sty
+Package: mathalpha 2021/11/18 - 1.143mathalpha (License LPPL) Michael Sharpe
+
+`mathalpha' v1.143, 2021/11/18, a renaming of mathalfa (msharpe)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+)
+\XKV@depth=\count289
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+LaTeX Font Info:    Overwriting math alphabet `\mathbb' in version `bold'
+(Font)                  U/BOONDOX-ds/m/n --> U/BOONDOX-ds/b/n on input line 209
+.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 554.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/BOONDOX-calo/m/n --> U/BOONDOX-calo/b/n on input line
+ 556.
+)
+(./CV.aux)
 \openout1 = CV.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-6.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+7.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
-LaTeX Font Info:    Redeclaring math accent \check on input line 36.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 37.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 37.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 37.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 37.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 37.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 37.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 37.
+LaTeX Font Info:    Redeclaring math accent \check on input line 37.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 37.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 37.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 37.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 37.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 36.
+(Font)              `operators' in the math version `normal' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/EBGaramond(0)/m/n on input line 36.
+(Font)                  OT1/cmr/m/n --> TU/EBGaramond(0)/m/n on input line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 36.
+(Font)              `operators' in the math version `bold' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/m/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/m/n on input line 37.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/m/n on input 
-line 36.
+line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/EBGaramond(0)/m/it on input line 36
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(0)/m/it on input line 37
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/b/n on input line 36.
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/b/n on input line 37.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 36.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 36.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/b/n on input 
-line 36.
+line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/EBGaramond(0)/b/it on input line 3
-6.
+7.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 36.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 36.
-Package hyperref Info: Link coloring ON on input line 36.
- (./CV.out)
-(./CV.out)
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 37.
+Package hyperref Info: Link coloring ON on input line 37.
+
+(./CV.out) (./CV.out)
 \@outlinefile=\write3
 
 \openout3 = CV.out
@@ -552,68 +577,82 @@ Package hyperref Info: Link coloring ON on input line 36.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count289
+\scratchcounter=\count290
 \scratchdimen=\dimen165
 \scratchbox=\box56
-\nofMPsegments=\count290
-\nofMParguments=\count291
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count292
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count293
 \MPscratchDim=\dimen166
-\MPnumerator=\count293
-\makeMPintoPDFobject=\count294
-\everyMPtoPDFconversion=\toks24
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks26
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 56.
+(Font)              <12> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 46.
+LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 46.
+LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 46.
+LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 46.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
+Underfull \hbox (badness 10000) in paragraph at lines 74--78
 
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 78--80
+Underfull \hbox (badness 2635) in paragraph at lines 80--82
 \TU/EBGaramond(0)/m/n/12 ration of sim-i-lar-ity in spon-ta-neous fa-cial be-hav
 -iors dur-ing pan-demic lock-down. \TU/EBGaramond(0)/m/it/12 PsyArXiv\TU/EBGara
 mond(0)/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--80
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 83--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--115
+Underfull \hbox (badness 10000) in paragraph at lines 93--117
 
  []
 
 [2] [3]
-Underfull \hbox (badness 1248) in paragraph at lines 119--121
+Underfull \hbox (badness 1248) in paragraph at lines 121--123
 \TU/EBGaramond(0)/b/n/12 Pro-gram-ming: \TU/EBGaramond(0)/m/n/12 Machine-learnin
 g & Deep-learning (Scikit-learn, Py-torch, Ten-sor-Flow), Neu-
  []
@@ -628,24 +667,25 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 14355 strings out of 476447
+ 14797 strings out of 476447
  125027,1977958 words of node,token memory allocated
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 68 glue_spec,
  6 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 2:486,3:269,4:101,5:1061,6:86,7:10670,8:2,9:535,10:32,11:1068
- 36235 multiletter control sequences out of 65536+600000
- 49 fonts using 11541599 bytes
+   avail lists: 2:506,3:275,4:107,5:1061,6:90,7:10670,8:3,9:544,10:32,11:1068
+ 36643 multiletter control sequences out of 65536+600000
+ 55 fonts using 11851679 bytes
  79i,8n,89p,657b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-
 Italic.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/
 EBGaramond-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public
 /fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/
-public/ebgaramond/EBGaramond-Bold.otf>
-Output written on CV.pdf (4 pages, 41128 bytes).
+public/ebgaramond/EBGaramond-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/
+type1/public/boondox/zxxrl8a.pfb>
+Output written on CV.pdf (4 pages, 48015 bytes).
 
-PDF statistics: 67 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
