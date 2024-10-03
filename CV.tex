@@ -1,6 +1,6 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage{fontspec} % Required for specifying the font
-\setmainfont{EB Garamond} % Specifies EB Garamond as the main font
+%\setmainfont{EB Garamond} % Specifies EB Garamond as the main font
 \usepackage{hyperref} % For hyperlinks
 \hypersetup{
     colorlinks=true,
@@ -19,6 +19,17 @@
 \usepackage{xcolor} % For icon colors
 \usepackage{ragged2e}
 \usepackage[bb=boondox,bbscaled=.95,cal=boondoxo]{mathalfa} 
+\usepackage{fancyhdr}
+\usepackage[yyyymmdd,hhmmss]{datetime}
+\usepackage{helvet}
+
+% Set up page header/footer for "Last Updated" information
+\fancypagestyle{lastupdate}{
+    \fancyhf{}
+    \fancyfoot[R]{Last Updated: \today}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\footrulewidth}{0.4pt}
+}
 
 % Define section formatting
 \titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
@@ -38,7 +49,7 @@
 \sloppy % Allow for more flexible line breaks
 
 \begin{center}
-    \textbf{\Huge Feng-Chun (Ben) Chou} \\
+    \textbf{\Huge Feng-Chun Ben Chou} \\
     \vspace{10pt}
     \href{https://github.com/Ben-FCC}{\color{black}\faGithub \ Ben-FCC} \\
     \href{https://scholar.google.com/citations?user=oZ5rsb0AAAAJ&hl=en}{\color{black}\faGoogle \ Google Scholar}\\
@@ -137,4 +148,5 @@ Interacting Minds, Social Network Analysis, Computational Social Neuroscience, M
 \textbf{Programming:} Machine-learning \& Deep-learning (Scikit-learn, Pytorch, TensorFlow), Neuroimaging (Nltools, Nilearn, BrainIAK, fMRIPrep), Non-verbal behavior analysis (Py-Feat, OpenFace, OpenPose), Computational modeling (Numpy, Pandas, R, pymer4, Seaborn, SciPy, MATLAB), Web \& Server programming (JavaScript, Meteor, Node.js, BASH, Socket, SQL), Network analysis (NetworkX), Neurophysiological Signal Processing (NeuroKit), Java, C, C++ \\[\itemspace]
 \noindent\textbf{Data Analysis:} RSA (Representational Similarity Analysis), IS-RSA (Intersubject Representational Similarity Analysis), SNA (Social Network Analysis), ML \& DL (Machine Learning \& Deep Learning), TPA (Transition Probability Analysis), ANOVA, GLM, HMM (Hidden Markov Model), Information theory, Linear algebra, Group theory
 
+\thispagestyle{lastupdate}
 \end{document}
