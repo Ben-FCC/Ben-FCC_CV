@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  2 OCT 2024 14:57
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  3 OCT 2024 12:55
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -618,41 +618,41 @@ LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
 LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 45.
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--82
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 84--86
+Underfull \hbox (badness 2635) in paragraph at lines 87--89
 \TU/EBGaramond(0)/m/n/12 ration of sim-i-lar-ity in spon-ta-neous fa-cial be-hav
 -iors dur-ing pan-demic lock-down. \TU/EBGaramond(0)/m/it/12 PsyArXiv\TU/EBGara
 mond(0)/m/n/12 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--86
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 89--95
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--123
+Underfull \hbox (badness 10000) in paragraph at lines 102--128
 
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 132--134
+Underfull \hbox (badness 1248) in paragraph at lines 137--139
 \TU/EBGaramond(0)/b/n/12 Pro-gram-ming: \TU/EBGaramond(0)/m/n/12 Machine-learnin
 g & Deep-learning (Scikit-learn, Py-torch, Ten-sor-Flow), Neu-
  []
@@ -672,7 +672,7 @@ Here is how much of LuaTeX's memory you used:
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 68 glue_spec,
  6 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 2:476,3:271,4:107,5:1167,6:74,7:12000,8:3,9:449,10:32,11:1263
+   avail lists: 2:662,3:326,4:149,5:1226,6:116,7:12664,8:3,9:731,10:32,11:1331
  36643 multiletter control sequences out of 65536+600000
  55 fonts using 11851679 bytes
  79i,8n,89p,657b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -682,10 +682,10 @@ EBGaramond-Regular.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public
 /fontawesome/FontAwesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/
 public/ebgaramond/EBGaramond-Bold.otf></usr/local/texlive/2024/texmf-dist/fonts/
 type1/public/boondox/zxxrl8a.pfb>
-Output written on CV.pdf (4 pages, 49368 bytes).
+Output written on CV.pdf (4 pages, 50621 bytes).
 
-PDF statistics: 72 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+PDF statistics: 78 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
