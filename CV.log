@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  3 OCT 2024 21:43
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  10 OCT 2024 17:45
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -653,35 +653,21 @@ LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
 LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
 (Font)              scaled to size 5.69998pt on input line 56.
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--96
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 103--109
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--139
-
- []
-
 [2] [3]
-Underfull \hbox (badness 1675) in paragraph at lines 143--144
-\TU/lmr/m/n/12 In-ter-act-ing Minds, So-cial Net-work Anal-y-sis, Com-pu-ta-tion
-al So-cial Neu-ro-science,
+Underfull \hbox (badness 1675) in paragraph at lines 142--143
+[][]\TU/lmr/m/n/12 In-ter-act-ing Minds[][], Com-pu-ta-tional So-cial Neu-ro-sci
+ence, So-cial Net-work Anal-y-sis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
@@ -695,15 +681,15 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 15779 strings out of 476447
+ 15782 strings out of 476447
  125027,1977958 words of node,token memory allocated
  511 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 69 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:666,3:322,4:149,5:796,6:118,7:12195,8:3,9:733,10:30,11:1284
- 37574 multiletter control sequences out of 65536+600000
+   avail lists: 2:632,3:321,4:149,5:812,6:118,7:12654,8:3,9:732,10:28,11:1326
+ 37577 multiletter control sequences out of 65536+600000
  43 fonts using 3135039 bytes
- 79i,11n,89p,1002b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,11n,89p,1002b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-italic.otf
 ></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.o
 tf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regula
@@ -711,10 +697,10 @@ r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/Font
 Awesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman
 12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrl
 8a.pfb>
-Output written on CV.pdf (5 pages, 48155 bytes).
+Output written on CV.pdf (5 pages, 49071 bytes).
 
-PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
+PDF statistics: 89 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
