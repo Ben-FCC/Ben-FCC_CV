@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  16 OCT 2024 19:38
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  17 OCT 2024 23:00
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -686,7 +686,7 @@ Here is how much of LuaTeX's memory you used:
  511 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 69 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:632,3:321,4:149,5:812,6:118,7:12654,8:3,9:732,10:28,11:1326
+   avail lists: 2:642,3:327,4:149,5:812,6:118,7:12654,8:3,9:744,10:28,11:1326
  37577 multiletter control sequences out of 65536+600000
  43 fonts using 3135039 bytes
  79i,11n,89p,1002b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -697,7 +697,7 @@ r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/Font
 Awesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman
 12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrl
 8a.pfb>
-Output written on CV.pdf (5 pages, 49089 bytes).
+Output written on CV.pdf (5 pages, 49593 bytes).
 
 PDF statistics: 89 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
