@@ -22,6 +22,7 @@
 \usepackage{fancyhdr}
 \usepackage[yyyymmdd,hhmmss]{datetime}
 \usepackage{helvet}
+\definecolor{themecolor}{RGB}{225,50,10}
 
 % Set up page header/footer for "Last Updated" information
 \fancypagestyle{lastupdate}{
@@ -32,7 +33,9 @@
 }
 
 % Define section formatting
-\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\section}{
+      \color{themecolor}\vspace{-2pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{themecolor}\titlerule \vspace{-5pt}]
 \titleformat{\subsection}{\normalsize\bfseries}{}{0em}{}
 
 % Reduce space between items in lists
@@ -49,7 +52,7 @@
 \sloppy % Allow for more flexible line breaks
 
 \begin{center}
-    \textbf{\Huge Feng-Chun Ben Chou} \\
+    \textbf{{\fontsize{25}{48}\selectfont F}{\fontsize{18}{48}\selectfont ENG-}{\fontsize{25}{48}\selectfont C}{\fontsize{18}{48}\selectfont HUN }{\fontsize{25}{48}\selectfont B}{\fontsize{18}{48}\selectfont EN} {\fontsize{25}{48}\selectfont C}{\fontsize{18}{48}\selectfont HOU}} \\
     \vspace{10pt}
     \href{https://github.com/Ben-FCC}{\color{black}\faGithub \ Ben-FCC} \\
     \href{https://scholar.google.com/citations?user=oZ5rsb0AAAAJ&hl=en}{\color{black}\faGoogle \ Google Scholar}\\
@@ -89,7 +92,7 @@ I am currently a PhD student under supervision by \href{https://scholar.google.c
 
 \section*{PUBLICATIONS}
 \textit{* indicates co-first authorship.} \\[10pt]
-\noindent Chen, P.-H. A., Chiu, T.-A. P., Hsiao, P.-Y. A., \& \textbf{Chou, F.-C. B.} (In press) From experiences to preferences: neural insights through a naturalistic neuroimaging paradigm. In Fareri, D., Smith, D. \& Lockwood, P. (Eds.), \textit{Neuroeconomics: Core Topics and Current Directions.} Springer Nature.\\[\itemspace]
+\noindent Chen, P.-H. A., Chiu, T.-A. P., Hsiao, P.-Y. A., \& \textbf{Chou, F.-C. B.} (In press). From experiences to preferences: neural insights through a naturalistic neuroimaging paradigm. In Fareri, D., Smith, D. \& Lockwood, P. (Eds.), \textit{Neuroeconomics: Core Topics and Current Directions.} Springer Nature.\\[\itemspace]
 \noindent Hsiao, P.-Y. A., Kim, M. J., \textbf{Chou, F.-C. B.}, \& Chen, P.-H. A. (2024). Intersubject representational similarity analysis uncovers the impact of state anxiety on brain activation patterns in the human extrastriate cortex. \textit{Brain Imaging and Behavior}, 18(2), 1-9. \href{https://doi.org/10.1007/s11682-024-00854-1}{https://doi.org/10.1007/s11682-024-00854-1}
 \\[\itemspace]
 
