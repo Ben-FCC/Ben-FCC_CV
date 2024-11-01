@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  28 OCT 2024 00:10
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  1 NOV 2024 22:30
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -692,10 +692,10 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  15789 strings out of 476447
  125027,1977958 words of node,token memory allocated
- 511 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 69 glue_spec,
- 4 attribute_list, 1 write nodes
-   avail lists: 2:645,3:318,4:195,5:817,6:115,7:12772,8:3,9:734,10:28,11:1338
+ 521 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 69 glue_spec,
+ 5 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 2:643,3:318,4:195,5:821,6:114,7:12810,8:3,9:734,10:28,11:1344
  37584 multiletter control sequences out of 65536+600000
  46 fonts using 3528183 bytes
  79i,11n,89p,1002b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -706,10 +706,10 @@ r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/Font
 Awesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman
 12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrl
 8a.pfb>
-Output written on CV.pdf (5 pages, 49836 bytes).
+Output written on CV.pdf (5 pages, 49949 bytes).
 
-PDF statistics: 89 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
