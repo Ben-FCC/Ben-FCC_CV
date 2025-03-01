@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  24 FEB 2025 10:23
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  1 MAR 2025 14:38
  restricted system commands enabled.
  file:line:error style messages enabled.
 **CV.tex
@@ -658,25 +658,25 @@ LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
 (Font)              using `TU/lmr/bx/n' instead on input line 66.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--99
+Underfull \hbox (badness 10000) in paragraph at lines 94--100
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
 
  []
 
 [2] [3] [4]
-Underfull \hbox (badness 1675) in paragraph at lines 148--149
+Underfull \hbox (badness 1675) in paragraph at lines 149--150
 [][]\TU/lmr/m/n/12 In-ter-act-ing Minds[][], Com-pu-ta-tional So-cial Neu-ro-sci
 ence, So-cial Net-work Anal-y-sis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 
  []
 
@@ -699,7 +699,7 @@ Here is how much of LuaTeX's memory you used:
  521 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 69 glue_spec,
  5 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 2:634,3:312,4:189,5:849,6:113,7:13454,8:4,9:730,10:28,11:1441
+   avail lists: 2:644,3:314,4:189,5:862,6:113,7:13690,8:3,9:732,10:28,11:1455
  37583 multiletter control sequences out of 65536+600000
  45 fonts using 3396495 bytes
  79i,11n,89p,1002b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -710,7 +710,7 @@ r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/Font
 Awesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman
 12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrl
 8a.pfb>
-Output written on CV.pdf (5 pages, 50696 bytes).
+Output written on CV.pdf (5 pages, 50957 bytes).
 
 PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
