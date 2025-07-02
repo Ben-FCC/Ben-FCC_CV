@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  4 JUN 2025 10:08
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  2 JUL 2025 23:52
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -640,42 +640,42 @@ e
 File: fc-english.def 2016/01/12
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 59.
+(Font)              <12> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 59.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 59.
+(Font)              <6> on input line 61.
 LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 59.
+(Font)              scaled to size 11.39996pt on input line 61.
 LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 59.
+(Font)              scaled to size 7.59998pt on input line 61.
 LaTeX Font Info:    Font shape `U/BOONDOX-ds/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 59.
+(Font)              scaled to size 5.69998pt on input line 61.
 
 
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
-(Font)              using `TU/lmr/bx/n' instead on input line 66.
+(Font)              using `TU/lmr/bx/n' instead on input line 67.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--100
+Underfull \hbox (badness 10000) in paragraph at lines 95--101
 
  []
 
 [1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
 [2] [3] [4]
-Underfull \hbox (badness 1675) in paragraph at lines 151--152
+Underfull \hbox (badness 1675) in paragraph at lines 153--154
 [][]\TU/lmr/m/n/12 In-ter-act-ing Minds[][], Com-pu-ta-tional So-cial Neu-ro-sci
 ence, So-cial Net-work Anal-y-sis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
 
@@ -694,11 +694,12 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  15789 strings out of 476447
- 156294,1977958 words of node,token memory allocated
+ 156290,1977958 words of node,token memory allocated
  521 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 69 glue_spec,
  5 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 2:660,3:320,4:201,5:911,6:115,7:14281,8:3,9:739,10:28,11:1509
+   avail lists: 1:1,2:680,3:333,4:208,5:891,6:119,7:14367,8:3,9:758,10:28,11:153
+1
  37583 multiletter control sequences out of 65536+600000
  45 fonts using 3396495 bytes
  79i,11n,89p,1002b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -709,10 +710,10 @@ r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/Font
 Awesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman
 12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrl
 8a.pfb>
-Output written on CV.pdf (6 pages, 52220 bytes).
+Output written on CV.pdf (6 pages, 53691 bytes).
 
-PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+PDF statistics: 97 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
