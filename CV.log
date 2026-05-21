@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  25 FEB 2026 00:52
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.25)  21 MAY 2026 22:14
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -679,23 +679,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--124
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--133
+Underfull \hbox (badness 10000) in paragraph at lines 128--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--156
+Underfull \hbox (badness 10000) in paragraph at lines 139--159
 
  []
 
 [3] [4]
-Underfull \hbox (badness 1675) in paragraph at lines 160--161
+Underfull \hbox (badness 1675) in paragraph at lines 163--164
 [][]\TU/lmr/m/n/12 In-ter-act-ing Minds[][], Com-pu-ta-tional So-cial Neu-ro-sci
 ence, So-cial Net-work Anal-y-sis,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
@@ -718,10 +718,10 @@ Here is how much of LuaTeX's memory you used:
  541 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 7 attribute, 69 glue_spec,
  7 attribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 2:704,3:342,4:211,5:682,6:119,7:10121,8:3,9:762,10:28,11:1029
+   avail lists: 2:704,3:342,4:211,5:721,6:119,7:10954,8:3,9:762,10:28,11:1101
  37583 multiletter control sequences out of 65536+600000
  45 fonts using 3396495 bytes
- 79i,11n,89p,1002b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,11n,89p,1002b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman8-italic.otf
 ></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-italic.o
 tf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman12-regula
@@ -729,7 +729,7 @@ r.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/fontawesome/Font
 Awesome.otf></usr/local/texlive/2024/texmf-dist/fonts/opentype/public/lm/lmroman
 12-bold.otf></usr/local/texlive/2024/texmf-dist/fonts/type1/public/boondox/zxxrl
 8a.pfb>
-Output written on CV.pdf (6 pages, 54142 bytes).
+Output written on CV.pdf (6 pages, 54923 bytes).
 
 PDF statistics: 104 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
